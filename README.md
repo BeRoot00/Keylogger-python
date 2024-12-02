@@ -1,3 +1,5 @@
+This activity is conducted as part of a detailed demonstration to the security team, showcasing the functionality and operational mechanics of a keylogger to enhance their understanding of potential cybersecurity threats.
+
 # Keylogger
 
 This is a simple keylogger written in Python that captures keyboard inputs and sends them via email. It uses the `pynput.keyboard` library for key event handling and the `smtplib` library for email sending.
